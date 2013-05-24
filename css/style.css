@@ -27,6 +27,9 @@ nav ul li a:hover {
     text-shadow: 0px 0px 2px black;
     color: black;
 }
+/***
+@articles
+***/
 article {
     max-width: 900px;
     min-width: 300px;
@@ -34,16 +37,32 @@ article {
     margin-right: auto;
     margin-bottom: 15px;
 }
+article header {
+    display: block;
+    margin-bottom: 5%;
+    margin-top: 3%;
+    background-color: rgba(255, 255, 255, 0.67);
+    padding: 2%;
+}
 article h1 {
-    font-family: 'Almendra Display', sans-serif;
+    font-family: 'Carrois Gothic SC', 'Helvetica', 'Arial', sans-serif;
     font-weight: bold;
     font-size: 3.4em;
 }
 article p {
     line-height: 1.5;
     text-indent: 2em;
-    font-size: 1em;
-    color: #111;
+    font-size: 1.2em;
+    color: black;
+    background-color: rgba(255, 255, 255, 0.67);
+    padding-left: 3%;
+    padding-right: 3%;
+}
+article p:first-of-type {
+    padding-top: 3%;
+}
+article p:last-of-type {
+    padding-bottom: 3%;
 }
 footer {
     font-family: 'Helvetica', 'Arial', sans-serif;
