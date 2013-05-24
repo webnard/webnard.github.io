@@ -7,19 +7,28 @@ html {
 **/
 nav ul {
     text-align: center;
+}
+nav ul li.heading {
+    font-weight: bold;
+    margin-top: 5%;
+    font-size: 1em;
+}
+nav ul li a {
     text-transform: lowercase;
     letter-spacing: .3em;
-    font-size: 2em
-}
-nav ul a {
+    font-size: 2em;
     text-decoration: none;
     color: black;
 }
-nav ul a:visited {
+nav ul li a:link {
+    color: black;
+    text-decoration: none;
+}
+nav ul li a:visited {
     color: rgb(109, 54, 54);
     text-decoration: none;
 }
-nav ul a:hover,  nav ul a:active {
+nav ul li a:hover,  nav ul li a:active {
     text-decoration: none;
     color: black;
 }
