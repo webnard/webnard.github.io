@@ -1,0 +1,11 @@
+{
+    "name": "website-builder",
+    "version": "0.0.1",
+    "author": "Ian Hunter <beanland2@gmail.com>",
+    "dependencies": {
+        "uglify-js": "2.3.X",
+        "html-minifier": "0.5.2",
+        "jsdom": "0.6.X",
+        "yuicompressor": "2.4.8"
+    }
+}
