@@ -62,6 +62,9 @@ function templateFile(file) {
      var contents = fs.readFileSync(file).toString();
      var templateContents = fs.readFileSync(tplDir + '/home.html.tmp');
 
+     /** @TODO: replace with element matching **/
+     var title = contents.match(/<title>.*?<\/title>/);
+
      jsdom.env({
         html: templateContents,
         src: [jQuery],
@@ -71,6 +74,10 @@ function templateFile(file) {
 
             var $ = window.jQuery;
             $("content").replaceWith(contents);
+            
+            if(title !== null) {
+                $("title").replaceWith(title[0]);
+            }
             var newContents = window.document.doctype.toString() + window.document.innerHTML;
             fs.writeFileSync(newFile, htmlmin.minify(newContents, htmlmin_opts));
         }
