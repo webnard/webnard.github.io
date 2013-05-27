@@ -31,27 +31,40 @@ fs.readdir(tplDir, function(err, files) {
     });
 });
 
+templateFile(siteDir);
 
-function templateFile(file, template) {
-    if(fs.isDir(file)) {
+function templateFile(file) {
+    var stat = fs.statSync(file);
+    var newFile = baseDir + file.slice(siteDir.length); 
+    if(stat.isDirectory()) {
+        if(!fs.existsSync(newFile)) {
+            fs.mkdirSync(newFile);
+        }
         fs.readdir(file, function(err, files) {
             files.forEach(function(f){
-                templateFile(file);
+                templateFile(file + '/' + f);
             });
         });
         return;
     }
+    if(file.slice(-5) !== ".html") {
+        // just copy it over -- no templating necessary
+        fs.createReadStream(file).pipe(fs.createWriteStream(newFile));
+    }
 
      var contents = fs.readFileSync(file).toString();
-     var templateContents = fs.readFileSync(template);
+     var templateContents = fs.readFileSync(tplDir + '/home.html.tmp');
 
      jsdom.env({
         html: templateContents,
         src: [jQuery],
         done: function(errors, window) {
+            var id = fs.openSync(newFile, 'w');
+            fs.closeSync(id);
+
             var $ = window.jQuery;
             $("content").replaceWith(contents);
-            console.log(contents);
+            fs.writeFileSync(newFile, window.document.doctype.toString() + window.document.innerHTML);
         }
      });
 }
