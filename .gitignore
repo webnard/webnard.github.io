@@ -1,2 +1,3 @@
 _src/node_modules/*
 _src/*.tmp
+_src/*/*.tmp
