@@ -1,11 +1,11 @@
 var fs = require("fs");
 var jQuery = fs.readFileSync(__dirname + "/jquery.js").toString();
 var jsdom = require("jsdom");
-var yui = require("yuicompressor");
+var cssmin = require("cssmin");
 
 var siteDir = __dirname + '/site';
 var baseDir = __dirname + '/..';
-var cssDir = baseDir + '/../css';
+var cssDir = baseDir + '/css';
 var tplDir = __dirname + '/templates';
 
 var tmpCss = __dirname + '/app.css.tmp';
@@ -106,8 +106,11 @@ function combineCss(file) {
                     $(this).remove();
                }
             });
-            
-            fs.rename(tmpCss, cssDir + '/app.min.css', function(){});
+           
+            var cssData = fs.readFileSync(tmpCss, encoding='utf8');
+            var mincss = cssmin(cssData);
+            fs.writeFileSync(cssDir + '/app.min.css', mincss);
+            fs.unlink(tmpCss, function(){}); 
             fs.writeFileSync(file, window.document.doctype.toString() + window.document.innerHTML);
         }
     });
