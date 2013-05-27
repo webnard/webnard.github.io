@@ -2,6 +2,10 @@ var fs = require("fs");
 var jQuery = fs.readFileSync(__dirname + "/jquery.js").toString();
 var jsdom = require("jsdom");
 var cssmin = require("cssmin");
+var htmlmin = require("html-minifier");
+var htmlmin_opts = {
+    collapseWhitespace: true
+}
 
 var siteDir = __dirname + '/site';
 var baseDir = __dirname + '/..';
@@ -32,6 +36,9 @@ fs.readdir(tplDir, function(err, files) {
 });
 
 templateFile(siteDir);
+unlinkFiles.forEach(function(file) {
+    fs.unlink(file, function(){});
+});
 
 function templateFile(file) {
     var stat = fs.statSync(file);
@@ -64,7 +71,8 @@ function templateFile(file) {
 
             var $ = window.jQuery;
             $("content").replaceWith(contents);
-            fs.writeFileSync(newFile, window.document.doctype.toString() + window.document.innerHTML);
+            var newContents = window.document.doctype.toString() + window.document.innerHTML;
+            fs.writeFileSync(newFile, htmlmin.minify(newContents, htmlmin_opts));
         }
      });
 }
