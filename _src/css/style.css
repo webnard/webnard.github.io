@@ -2,6 +2,9 @@ html {
     background-color: rgb(141, 204, 204);
     font-family: 'IM Fell French Canon', serif;
 }
+small {
+    font-size: .9em;
+}
 /**
  @main page
 **/
@@ -73,6 +76,11 @@ article p:first-of-type {
 article p:last-of-type {
     padding-bottom: 3%;
 }
+ul {
+    margin-left: 10%;
+    margin-top: 1.2em;
+    margin-bottom: 1.2em;
+}
 footer {
     font-family: 'Helvetica', 'Arial', sans-serif;
     font-size: .9em;
@@ -83,4 +91,38 @@ footer {
 footer a:link, footer a:visited, footer a:hover, footer a:active {
     text-decoration: underline;
     color: black;
+}
+/**************
+@transcriptions
+***************/
+article.transcription, article.transcription header, article.transcription h1, article.transcription h2, article.transcription p {
+    font-family: 'Courier', 'Courier New', monospace;
+    background-color: #EEE;
+}
+article.transcription p {
+    background-color: inherit;
+}
+article.transcription aside {
+    font-family: 'Carrois Gothic SC','Helvetica','Arial',sans-serif;
+}
+article.transcription ul {
+    list-style-type: circle;
+}
+article.transcription table {
+    width: 100%;
+}
+article.transcription table td, article.transcription table th {
+    border: solid black 1px;
+    padding: .3em;
+}
+article.transcription table th {
+    font-weight: bold;
+}
+article.transcription small {
+    padding-left: 3%;
+    padding-right: 3%;
+}
+article.transcription section:not(:last-child) {
+    border-bottom: rgba(220,220,220,1) solid 4px;
+    margin-bottom: 1em;
 }
