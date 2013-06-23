@@ -128,3 +128,20 @@ article.transcription section:not(:last-child) {
     border-bottom: rgba(220,220,220,1) solid 4px;
     margin-bottom: 1em;
 }
+
+/** iPhone < 5 **/
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+    html {
+        font-size: 28px;
+    }
+    article {
+        width: 100%;
+        min-width: 0;
+        max-width: none;
+    }
+    article p {
+        text-align: justify;
+    }
+}
