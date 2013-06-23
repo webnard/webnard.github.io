@@ -4,7 +4,8 @@ var jsdom = require("jsdom");
 var cssmin = require("cssmin");
 var htmlmin = require("html-minifier");
 var htmlmin_opts = {
-    collapseWhitespace: true
+    collapseWhitespace: false,
+    collapseBooleanAttributes: true
 }
 
 var siteDir = __dirname + '/site';
