@@ -9,6 +9,8 @@ small {
  @main page
 **/
 nav ul {
+    margin: 0;
+    margin-top: 2%;
     text-align: center;
 }
 nav ul li.heading {
