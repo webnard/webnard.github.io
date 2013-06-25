@@ -78,10 +78,16 @@ article p:first-of-type {
 article p:last-of-type {
     padding-bottom: 3%;
 }
-ul {
+ul, ol {
     margin-left: 10%;
     margin-top: 1.2em;
     margin-bottom: 1.2em;
+}
+ol {
+    list-style-type: decimal;
+}
+ol.custom {
+    list-style-type: none;
 }
 footer {
     font-family: 'Helvetica', 'Arial', sans-serif;
@@ -97,34 +103,34 @@ footer a:link, footer a:visited, footer a:hover, footer a:active {
 /**************
 @transcriptions
 ***************/
-article.transcription, article.transcription header, article.transcription h1, article.transcription h2, article.transcription p {
+.transcription, .transcription header, .transcription h1, .transcription h2, .transcription p {
     font-family: 'Courier', 'Courier New', monospace;
     background-color: #EEE;
 }
-article.transcription p {
+.transcription p {
     background-color: inherit;
 }
-article.transcription aside {
+.transcription aside {
     font-family: 'Carrois Gothic SC','Helvetica','Arial',sans-serif;
 }
-article.transcription ul {
+.transcription ul {
     list-style-type: circle;
 }
-article.transcription table {
+.transcription table {
     width: 100%;
 }
-article.transcription table td, article.transcription table th {
+.transcription table td, .transcription table th {
     border: solid black 1px;
     padding: .3em;
 }
-article.transcription table th {
+.transcription table th {
     font-weight: bold;
 }
-article.transcription small {
+.transcription small {
     padding-left: 3%;
     padding-right: 3%;
 }
-article.transcription section:not(:last-child) {
+.transcription section:not(:last-child) {
     border-bottom: rgba(220,220,220,1) solid 4px;
     margin-bottom: 1em;
 }
