@@ -28,17 +28,17 @@ fs.readdir(tplDir, function(err, files) {
         // make a copy
         var tmpFile = tplDir + '/' + file + '.tmp';
         var copy = fs.readFileSync(tplDir + '/' + file);
-        fs.writeFileSync(tmpFile, copy);
+    fs.writeFileSync(tmpFile, copy);
 
-        combineCss(tmpFile);
-        
-        unlinkFiles.push(tmpFile);
-    });
+    combineCss(tmpFile);
+    
+    unlinkFiles.push(tmpFile);
+});
 });
 
 templateFile(siteDir);
 unlinkFiles.forEach(function(file) {
-    fs.unlink(file, function(){});
+fs.unlink(file, function(){});
 });
 
 function templateFile(file) {
@@ -56,33 +56,40 @@ function templateFile(file) {
         return;
     }
     if(file.slice(-5) !== ".html") {
+        console.log("Copying " + file);
         // just copy it over -- no templating necessary
         fs.createReadStream(file).pipe(fs.createWriteStream(newFile));
     }
+    else
+    {
+         console.log("Building " + file);
+         var contents = fs.readFileSync(file).toString();
+         var templateContents = fs.readFileSync(tplDir + '/home.html.tmp');
+   
+         jsdom.env({
+            html: templateContents,
+            src: [jQuery],
+            done: function(errors, window) {
+                var id = fs.openSync(newFile, 'w');
+                fs.closeSync(id);
+    
+                var $ = window.jQuery;
+                var $contents = $("<div id=BUILD_PROCESS>").append(contents);
+     
+                var title = $contents.find('title').remove();
+                var meta = $contents.find('meta').remove();
 
-     var contents = fs.readFileSync(file).toString();
-     var templateContents = fs.readFileSync(tplDir + '/home.html.tmp');
-
-     /** @TODO: replace with element matching **/
-     var title = contents.match(/<title>.*?<\/title>/);
-
-     jsdom.env({
-        html: templateContents,
-        src: [jQuery],
-        done: function(errors, window) {
-            var id = fs.openSync(newFile, 'w');
-            fs.closeSync(id);
-
-            var $ = window.jQuery;
-            $("content").replaceWith(contents);
-            
-            if(title !== null) {
-                $("title").replaceWith(title[0]);
+                $("content").replaceWith($contents.html());
+                
+                if(title.length) {
+                    $("title").replaceWith(title);
+                }
+                $("head").append(meta);
+                var newContents = window.document.doctype.toString() + window.document.innerHTML;
+                fs.writeFileSync(newFile, htmlmin.minify(newContents, htmlmin_opts));
             }
-            var newContents = window.document.doctype.toString() + window.document.innerHTML;
-            fs.writeFileSync(newFile, htmlmin.minify(newContents, htmlmin_opts));
-        }
-     });
+         });
+    }
 }
 
 function isLocal(filename) {
