@@ -4,7 +4,7 @@
     "author": "Ian Hunter <beanland2@gmail.com>",
     "dependencies": {
         "uglify-js": "2.3.X",
-        "html-minifier": "0.5.2",
+        "html-minifier": "git://github.com/kangax/html-minifier.git#9d421b14a8a6a1d039def7d4df5242a1dc9d92fb",
         "jsdom": "0.6.X",
         "cssmin": "0.4.1"
     }

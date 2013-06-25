@@ -4,7 +4,7 @@ var jsdom = require("jsdom");
 var cssmin = require("cssmin");
 var htmlmin = require("html-minifier");
 var htmlmin_opts = {
-    collapseWhitespace: false,
+    collapseWhitespace: true,
     collapseBooleanAttributes: true
 }
 
