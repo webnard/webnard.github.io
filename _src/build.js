@@ -31,7 +31,7 @@ fs.readdir(tplDir, function(err, files) {
     fs.writeFileSync(tmpFile, copy);
 
     combineCss(tmpFile);
-    
+
     unlinkFiles.push(tmpFile);
 });
 });
@@ -43,7 +43,7 @@ fs.unlink(file, function(){});
 
 function templateFile(file) {
     var stat = fs.statSync(file);
-    var newFile = baseDir + file.slice(siteDir.length); 
+    var newFile = baseDir + file.slice(siteDir.length);
     if(stat.isDirectory()) {
         if(!fs.existsSync(newFile)) {
             fs.mkdirSync(newFile);
@@ -64,36 +64,44 @@ function templateFile(file) {
     {
          console.log("Building " + file);
          var contents = fs.readFileSync(file).toString();
-         var templateContents = fs.readFileSync(tplDir + '/home.html.tmp');
-   
-         jsdom.env({
-            html: templateContents,
-            src: [jQuery],
-            done: function(errors, window) {
-                var id = fs.openSync(newFile, 'w');
-                fs.closeSync(id);
-    
-                var $ = window.jQuery;
-                var $contents = $("<div id=BUILD_PROCESS>").append(contents);
-     
-                var title = $contents.find('title').remove();
-                var meta = $contents.find('meta').remove();
 
-                $("content").replaceWith($contents.html());
-                
-                if(title.length) {
-                    $("title").replaceWith(title);
-                }
-                $("head").append(meta);
-                var newContents = window.document.doctype.toString() + window.document.innerHTML;
-                fs.writeFileSync(newFile, htmlmin.minify(newContents, htmlmin_opts));
-            }
-         });
+
+         jsdom.env({
+          html: contents,
+          src: [jQuery],
+          done: function(errors, window) {
+            var tpl = window.jQuery('tpl').text() || 'home';
+            var templateContents = fs.readFileSync(tplDir + '/' + tpl + '.html.tmp');
+            jsdom.env({
+               html: templateContents,
+               src: [jQuery],
+               done: function(errors, window) {
+                   var id = fs.openSync(newFile, 'w');
+                   fs.closeSync(id);
+
+                   var $ = window.jQuery;
+                   var $contents = $("<div id=BUILD_PROCESS>").append(contents);
+
+                   var title = $contents.find('title').remove();
+                   var meta = $contents.find('meta').remove();
+
+                   $("content").replaceWith($contents.html());
+
+                   if(title.length) {
+                       $("title").replaceWith(title);
+                   }
+                   $("head").append(meta);
+                   var newContents = window.document.doctype.toString() + window.document.innerHTML;
+                   fs.writeFileSync(newFile, htmlmin.minify(newContents, htmlmin_opts));
+               }
+            });
+          }
+        });
     }
 }
 
 function isLocal(filename) {
-    return filename.indexOf("http://") !== 0 
+    return filename.indexOf("http://") !== 0
            && filename.indexOf("//") !== 0
            && filename.indexOf("https://") !== 0;
 }
@@ -109,17 +117,17 @@ function combineCss(file) {
             var g = fs.openSync(tmpCss, 'w');
             fs.closeSync(g);
             var replaced = false;
-            
+
             el.each(function() {
                var css = $(this).attr('href');
                if(!isLocal(css)) {
                     return;
                }
                css = __dirname + "/" + css;
-                
+
                var data = fs.readFileSync(css);
                fs.appendFileSync(tmpCss, data);
-               
+
                if(!replaced) {
                     $(this).replaceWith("<link rel='stylesheet' href='/css/app.min.css'>");
                     replaced = true;
@@ -129,11 +137,11 @@ function combineCss(file) {
                     $(this).remove();
                }
             });
-           
+
             var cssData = fs.readFileSync(tmpCss, encoding='utf8');
             var mincss = cssmin(cssData);
             fs.writeFileSync(cssDir + '/app.min.css', mincss);
-            fs.unlink(tmpCss, function(){}); 
+            fs.unlink(tmpCss, function(){});
             fs.writeFileSync(file, window.document.doctype.toString() + window.document.innerHTML);
         }
     });
