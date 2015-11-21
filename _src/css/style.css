@@ -154,3 +154,20 @@ and (max-device-width : 480px) {
         text-align: justify;
     }
 }
+blockquote {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+blockquote.poem {
+  background-color: rgba(255,255,255,0.67);
+}
+blockquote.poem cite {
+  display: block;
+  text-align: right;
+}
+blockquote.poem pre {
+  text-align: center;
+  font-size: 1.5em;
+  line-height: 1.8em;
+}
