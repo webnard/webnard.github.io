@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -6,13 +8,42 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 275 297"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="275mm"
    height="297mm"
-   width="275mm">
+   viewBox="0 0 275 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="la-molina.svg"
+   inkscape:export-filename="/home/ian/Documents/SPA 325/la-molina.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.4330851"
+     inkscape:cx="28.353114"
+     inkscape:cy="375.76028"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-text-baseline="false"
+     inkscape:snap-center="false"
+     inkscape:snap-object-midpoints="false"
+     inkscape:pagecheckerboard="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -26,389 +57,422 @@
     </rdf:RDF>
   </metadata>
   <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
      id="layer1">
     <text
-       id="text3715"
-       y="13.694693"
-       x="60.535442"
+       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:11.65365696px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29134142px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-size:7.94949055px;stroke-width:0.29134142px"
-         y="13.694693"
+       x="60.535442"
+       y="13.694693"
+       id="text3715"><tspan
+         sodipodi:role="line"
+         id="tspan3713"
          x="60.535442"
-         id="tspan3713">MUELE LOS INSTANTES COMO UN RELOJ</tspan></text>
+         y="13.694693"
+         style="font-size:7.94949055px;stroke-width:0.29134142px">MUELE LOS INSTANTES COMO UN RELOJ</tspan></text>
     <g
        id="g13002">
       <g
-         transform="translate(-0.64798582,3.4559243)"
-         id="g13110">
+         id="g13110"
+         transform="translate(-0.64798582,3.4559243)">
         <path
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           inkscape:connector-curvature="0"
+           id="path11307"
            d="M 10.589844,7.5332031 C 8.5379534,7.4777467 6.9953973,8.1083076 5.8613281,9.0878906 4.727259,10.067474 3.9995114,11.383302 3.5175781,12.691406 3.0356448,13.999511 2.79854,15.305475 2.6523438,16.28125 c -0.073098,0.487887 -0.1241553,0.893213 -0.1679688,1.167969 -0.021768,0.136508 -0.042771,0.241176 -0.058594,0.294922 -1.008e-4,3.42e-4 1.004e-4,0.0016 0,0.002 a 0.250025,0.250025 0 0 0 0.1660157,0.4375 c 0.1384996,0 0.2191366,-0.09523 0.2519531,-0.148438 0.032817,-0.0532 0.045956,-0.09731 0.060547,-0.146484 0.029182,-0.09834 0.050986,-0.213681 0.074219,-0.359375 0.046466,-0.291388 0.095945,-0.693112 0.1679688,-1.173828 C 3.2905318,15.394036 3.5252353,14.12012 3.9882812,12.863281 4.4513272,11.606442 5.1413669,10.370423 6.1875,9.4667969 7.2336331,8.563171 8.6321497,7.9806621 10.576172,8.0332031 l 7.992187,0.2148438 a 0.25009344,0.25009344 0 1 0 0.01367,-0.5 z"
-           id="path11307" />
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
         <path
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000002pt;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           id="path12996"
            d="M 13.577418,7.8632406 11.524114,9.8084761 18.575593,7.9983269 11.632183,5.8099362 Z"
-           id="path12996" />
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000002pt;stroke-opacity:1" />
       </g>
       <text
-         id="text13114"
-         y="291.01486"
-         x="3.2746642"
+         xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:7.18046856px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1795117px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-size:7.95161104px;stroke-width:0.1795117px"
-           y="291.01486"
+         x="3.2746642"
+         y="291.01486"
+         id="text13114"><tspan
+           sodipodi:role="line"
+           id="tspan13112"
            x="3.2746642"
-           id="tspan13112">HARINA DEL TIEMPO QUE HARÁ BLANCOS NUESTROS CABELLOS</tspan></text>
+           y="291.01486"
+           style="font-size:7.95161104px;stroke-width:0.1795117px">HARINA DEL TIEMPO QUE HARÁ BLANCOS NUESTROS CABELLOS</tspan></text>
       <g
-         transform="rotate(90,134.99717,140.63817)"
-         id="g13110-3">
+         id="g13110-3"
+         transform="rotate(90,134.99717,140.63817)">
         <path
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           inkscape:connector-curvature="0"
+           id="path11307-6"
            d="M 10.589844,7.5332031 C 8.5379534,7.4777467 6.9953973,8.1083076 5.8613281,9.0878906 4.727259,10.067474 3.9995114,11.383302 3.5175781,12.691406 3.0356448,13.999511 2.79854,15.305475 2.6523438,16.28125 c -0.073098,0.487887 -0.1241553,0.893213 -0.1679688,1.167969 -0.021768,0.136508 -0.042771,0.241176 -0.058594,0.294922 -1.008e-4,3.42e-4 1.004e-4,0.0016 0,0.002 a 0.250025,0.250025 0 0 0 0.1660157,0.4375 c 0.1384996,0 0.2191366,-0.09523 0.2519531,-0.148438 0.032817,-0.0532 0.045956,-0.09731 0.060547,-0.146484 0.029182,-0.09834 0.050986,-0.213681 0.074219,-0.359375 0.046466,-0.291388 0.095945,-0.693112 0.1679688,-1.173828 C 3.2905318,15.394036 3.5252353,14.12012 3.9882812,12.863281 4.4513272,11.606442 5.1413669,10.370423 6.1875,9.4667969 7.2336331,8.563171 8.6321497,7.9806621 10.576172,8.0332031 l 7.992187,0.2148438 a 0.25009344,0.25009344 0 1 0 0.01367,-0.5 z"
-           id="path11307-6" />
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
         <path
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000002pt;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           id="path12996-7"
            d="M 13.577418,7.8632406 11.524114,9.8084761 18.575593,7.9983269 11.632183,5.8099362 Z"
-           id="path12996-7" />
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000002pt;stroke-opacity:1" />
       </g>
       <g
-         transform="matrix(-0.74891189,0,0,-1,274.27612,296.49638)"
-         id="g13110-3-5">
+         id="g13110-3-5"
+         transform="matrix(-0.74891189,0,0,-1,274.27612,296.49638)">
         <path
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           inkscape:connector-curvature="0"
+           id="path11307-6-3"
            d="M 10.589844,7.5332031 C 8.5379534,7.4777467 6.9953973,8.1083076 5.8613281,9.0878906 4.727259,10.067474 3.9995114,11.383302 3.5175781,12.691406 3.0356448,13.999511 2.79854,15.305475 2.6523438,16.28125 c -0.073098,0.487887 -0.1241553,0.893213 -0.1679688,1.167969 -0.021768,0.136508 -0.042771,0.241176 -0.058594,0.294922 -1.008e-4,3.42e-4 1.004e-4,0.0016 0,0.002 a 0.250025,0.250025 0 0 0 0.1660157,0.4375 c 0.1384996,0 0.2191366,-0.09523 0.2519531,-0.148438 0.032817,-0.0532 0.045956,-0.09731 0.060547,-0.146484 0.029182,-0.09834 0.050986,-0.213681 0.074219,-0.359375 0.046466,-0.291388 0.095945,-0.693112 0.1679688,-1.173828 C 3.2905318,15.394036 3.5252353,14.12012 3.9882812,12.863281 4.4513272,11.606442 5.1413669,10.370423 6.1875,9.4667969 7.2336331,8.563171 8.6321497,7.9806621 10.576172,8.0332031 l 7.992187,0.2148438 a 0.25009344,0.25009344 0 1 0 0.01367,-0.5 z"
-           id="path11307-6-3" />
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
         <path
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000002pt;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           id="path12996-7-5"
            d="M 13.577418,7.8632406 11.524114,9.8084761 18.575593,7.9983269 11.632183,5.8099362 Z"
-           id="path12996-7-5" />
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000002pt;stroke-opacity:1" />
       </g>
       <text
-         transform="rotate(90)"
-         id="text13160"
-         y="-263.45047"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.92138433px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1980346px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="34.526466"
-         style="font-style:normal;font-weight:normal;font-size:7.92138433px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1980346px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.1980346px"
-           y="-263.45047"
+         y="-263.45047"
+         id="text13160"
+         transform="rotate(90)"><tspan
+           sodipodi:role="line"
+           id="tspan13158"
            x="34.526466"
-           id="tspan13158">ELLOS TAMBIÉN SON GRANOS MOLINO DE LA MELANCOLÍA</tspan></text>
+           y="-263.45047"
+           style="stroke-width:0.1980346px">ELLOS TAMBIÉN SON GRANOS MOLINO DE LA MELANCOLÍA</tspan></text>
       <text
-         transform="rotate(-90)"
-         id="text13160-6"
-         y="10.096307"
-         x="-236.14844"
+         xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:7.92138433px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1980346px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.1980346px"
-           y="10.096307"
+         x="-236.14844"
+         y="10.096307"
+         id="text13160-6"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan13158-2"
            x="-236.14844"
-           id="tspan13158-2">MOLINO DE LA MUERTE MOLINO DE LA VIDA</tspan></text>
+           y="10.096307"
+           style="stroke-width:0.1980346px">MOLINO DE LA MUERTE MOLINO DE LA VIDA</tspan></text>
       <g
-         id="g13198"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
          transform="translate(-2.4437075,-0.61092688)"
-         style="fill:#000000;fill-opacity:1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
+         id="g13198">
         <path
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           id="path13182"
            d="m 4.3199055,243.00117 v 9.0718"
-           id="path13182" />
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           id="path13184"
            d="M 4.3199055,252.07297 H 15.98365"
-           id="path13184" />
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           id="path13188"
            d="m 15.98365,252.07297 v -9.0718"
-           id="path13188" />
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
       <g
          id="g13266">
         <text
-           transform="rotate(-45)"
-           id="text13202"
-           y="62.971268"
-           x="-16.23814"
+           xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             style="font-size:3.88055563px;stroke-width:0.26458332px"
-             y="62.971268"
+           x="-16.23814"
+           y="62.971268"
+           id="text13202"
+           transform="rotate(-45)"><tspan
+             sodipodi:role="line"
+             id="tspan13200"
              x="-16.23814"
-             id="tspan13200">GIRA GIRA GIRA</tspan></text>
+             y="62.971268"
+             style="font-size:3.88055563px;stroke-width:0.26458332px">GIRA GIRA GIRA</tspan></text>
         <flowRoot
-           transform="matrix(0.18708867,0.18708866,-0.18708866,0.18708867,51.019274,-38.667397)"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           xml:space="preserve"
            id="flowRoot13204"
-           xml:space="preserve"><flowRegion
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(0.18708867,0.18708866,-0.18708866,0.18708867,51.019274,-38.667397)"><flowRegion
              id="flowRegion13206"><rect
-               y="157.58203"
-               x="225.31538"
-               height="168.17015"
+               id="rect13208"
                width="440.83444"
-               id="rect13208" /></flowRegion><flowPara
+               height="168.17015"
+               x="225.31538"
+               y="157.58203" /></flowRegion><flowPara
+             id="flowPara13210"
+             style="font-size:16px;text-align:start;text-anchor:start">MOLINO QUE MUELES LAS HORAS</flowPara><flowPara
              style="font-size:16px;text-align:start;text-anchor:start"
-             id="flowPara13210">MOLINO QUE MUELES LAS HORAS</flowPara><flowPara
-             id="flowPara13218"
-             style="font-size:16px;text-align:start;text-anchor:start">PRONTO SERÁ LA PRIMAVERA</flowPara><flowPara
-             id="flowPara13222"
-             style="font-size:16px;text-align:start;text-anchor:start">Y TENDRÁS LAS ALAS LLENAS DE FLORES</flowPara></flowRoot>        <path
-           id="path13224"
+             id="flowPara13218">PRONTO SERÁ LA PRIMAVERA</flowPara><flowPara
+             style="font-size:16px;text-align:start;text-anchor:start"
+             id="flowPara13222">Y TENDRÁS LAS ALAS LLENAS DE FLORES</flowPara></flowRoot>        <path
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.51899999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="M 98.081117,126.77646 126.55398,98.303595"
-           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.51899999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           id="path13224"
+           inkscape:connector-curvature="0" />
       </g>
       <g
-         id="g13266-2"
-         transform="rotate(-90,132.4343,132.10117)">
+         transform="rotate(-90,132.4343,132.10117)"
+         id="g13266-2">
         <g
-           transform="translate(-6.0478676,2.5919433)"
-           id="g13361">
+           id="g13361"
+           transform="translate(-6.0478676,2.5919433)">
           <text
-             xml:space="preserve"
-             style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             x="-16.23814"
-             y="62.971268"
+             transform="rotate(-45)"
              id="text13202-6"
-             transform="rotate(-45)"><tspan
-               id="tspan13200-1"
-               x="-16.23814"
+             y="62.971268"
+             x="-16.23814"
+             style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-size:3.88055563px;stroke-width:0.26458332px"
                y="62.971268"
-               style="font-size:3.88055563px;stroke-width:0.26458332px">GIRA GIRA GIRA</tspan></text>
+               x="-16.23814"
+               id="tspan13200-1"
+               sodipodi:role="line">GIRA GIRA GIRA</tspan></text>
           <flowRoot
-             xml:space="preserve"
-             id="flowRoot13204-8"
+             transform="matrix(0.18708867,0.18708866,-0.18708866,0.18708867,55.339179,-34.779482)"
              style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             transform="matrix(0.18708867,0.18708866,-0.18708866,0.18708867,55.339179,-34.779482)"><flowRegion
-               id="flowRegion13206-7"
-               style="text-align:start;text-anchor:start"><rect
-                 id="rect13208-9"
-                 width="440.83444"
-                 height="168.17015"
-                 x="225.31538"
+             id="flowRoot13204-8"
+             xml:space="preserve"><flowRegion
+               style="text-align:start;text-anchor:start"
+               id="flowRegion13206-7"><rect
+                 style="text-align:start;text-anchor:start"
                  y="157.58203"
-                 style="text-align:start;text-anchor:start" /></flowRegion><flowPara
-               id="flowPara13210-2"
-               style="font-size:16px;text-align:start;text-anchor:start">MOLINO MOTOR DE LOS AÑOS</flowPara><flowPara
+                 x="225.31538"
+                 height="168.17015"
+                 width="440.83444"
+                 id="rect13208-9" /></flowRegion><flowPara
                style="font-size:16px;text-align:start;text-anchor:start"
-               id="flowPara13218-0">PRONTO LLEGARÁ EL INVIERNO</flowPara><flowPara
-               style="font-size:16px;text-align:start;text-anchor:start"
-               id="flowPara13222-2">Y TUS LÁGRIMAS HIELO SERÁN</flowPara></flowRoot>          <path
-             style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.51899999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="flowPara13210-2">MOLINO MOTOR DE LOS AÑOS</flowPara><flowPara
+               id="flowPara13218-0"
+               style="font-size:16px;text-align:start;text-anchor:start">PRONTO LLEGARÁ EL INVIERNO</flowPara><flowPara
+               id="flowPara13222-2"
+               style="font-size:16px;text-align:start;text-anchor:start">Y TUS LÁGRIMAS HIELO SERÁN</flowPara></flowRoot>          <path
+             inkscape:connector-curvature="0"
+             id="path13224-3"
              d="M 98.081117,126.77646 126.55398,98.303595"
-             id="path13224-3" />
+             style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.51899999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         </g>
       </g>
       <g
-         id="g13414"
-         transform="rotate(-90,139.87845,17.196187)">
+         transform="rotate(-90,139.87845,17.196187)"
+         id="g13414">
         <text
-           transform="rotate(135)"
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           x="-14.091561"
+           y="-149.03407"
            id="text13202-5"
-           y="-149.03407"
-           x="-14.091561"
-           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             style="font-size:3.88055563px;stroke-width:0.26458332px"
-             y="-149.03407"
+           transform="rotate(135)"><tspan
+             sodipodi:role="line"
+             id="tspan13200-9"
              x="-14.091561"
-             id="tspan13200-9">GIRA GIRA GIRA</tspan></text>
+             y="-149.03407"
+             style="font-size:3.88055563px;stroke-width:0.26458332px">GIRA GIRA GIRA</tspan></text>
         <flowRoot
-           transform="matrix(0.18708867,0.18708866,-0.18708866,0.18708867,51.019274,-38.667397)"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           xml:space="preserve"
            id="flowRoot13204-2"
-           xml:space="preserve"><flowRegion
-             id="flowRegion13206-2"><rect
-               y="157.58203"
-               x="225.31538"
-               height="168.17015"
-               width="440.83444"
-               id="rect13208-8" /></flowRegion><flowPara
-             style="font-size:16px;text-align:start;text-anchor:start"
-             id="flowPara13210-9">MOLINO QUE MUELES LAS DÍAS</flowPara><flowPara
-             id="flowPara13218-7"
-             style="font-size:16px;text-align:start;text-anchor:start">PRONTO SERÁ VERANO</flowPara><flowPara
-             id="flowPara13222-3"
-             style="font-size:16px;text-align:start;text-anchor:start">Y HABRÁ FRUTOS EN TU TORRE</flowPara></flowRoot>        <path
-           id="path13224-6"
-           d="M 30.690593,61.113897 59.163456,32.641032"
-           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.51899999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      </g>
-      <g
-         transform="translate(126.13423,112.15157)"
-         id="g13414-1">
-        <text
-           transform="rotate(135)"
-           id="text13202-5-2"
-           y="-149.03407"
-           x="-14.091561"
-           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             style="font-size:3.88055563px;stroke-width:0.26458332px"
-             y="-149.03407"
-             x="-14.091561"
-             id="tspan13200-9-9">GIRA GIRA GIRA</tspan></text>
-        <flowRoot
-           transform="matrix(0.18708867,0.18708866,-0.18708866,0.18708867,51.019274,-38.667397)"
            style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="flowRoot13204-2-3"
-           xml:space="preserve"><flowRegion
-             id="flowRegion13206-2-1"><rect
-               y="157.58203"
-               x="225.31538"
-               height="168.17015"
+           transform="matrix(0.18708867,0.18708866,-0.18708866,0.18708867,51.019274,-38.667397)"><flowRegion
+             id="flowRegion13206-2"><rect
+               id="rect13208-8"
                width="440.83444"
-               id="rect13208-8-9" /></flowRegion><flowPara
+               height="168.17015"
+               x="225.31538"
+               y="157.58203" /></flowRegion><flowPara
+             id="flowPara13210-9"
+             style="font-size:16px;text-align:start;text-anchor:start">MOLINO QUE MUELES LAS DÍAS</flowPara><flowPara
              style="font-size:16px;text-align:start;text-anchor:start"
-             id="flowPara13210-9-4">MOLINO QUE MUELES LOS MESES</flowPara><flowPara
-             id="flowPara13218-7-7"
-             style="font-size:16px;text-align:start;text-anchor:start">PRONTO LLEGARÁ EL OTOÑO</flowPara><flowPara
-             id="flowPara13222-3-8"
-             style="font-size:16px;text-align:start;text-anchor:start">Y ESTARÁS TRISTE COMO LA CRUZ</flowPara></flowRoot>        <path
-           id="path13224-6-4"
+             id="flowPara13218-7">PRONTO SERÁ VERANO</flowPara><flowPara
+             style="font-size:16px;text-align:start;text-anchor:start"
+             id="flowPara13222-3">Y HABRÁ FRUTOS EN TU TORRE</flowPara></flowRoot>        <path
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.51899999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="M 30.690593,61.113897 59.163456,32.641032"
-           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.51899999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           id="path13224-6"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g13414-1"
+         transform="translate(126.13423,112.15157)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           x="-14.091561"
+           y="-149.03407"
+           id="text13202-5-2"
+           transform="rotate(135)"><tspan
+             sodipodi:role="line"
+             id="tspan13200-9-9"
+             x="-14.091561"
+             y="-149.03407"
+             style="font-size:3.88055563px;stroke-width:0.26458332px">GIRA GIRA GIRA</tspan></text>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot13204-2-3"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(0.18708867,0.18708866,-0.18708866,0.18708867,51.019274,-38.667397)"><flowRegion
+             id="flowRegion13206-2-1"><rect
+               id="rect13208-8-9"
+               width="440.83444"
+               height="168.17015"
+               x="225.31538"
+               y="157.58203" /></flowRegion><flowPara
+             id="flowPara13210-9-4"
+             style="font-size:16px;text-align:start;text-anchor:start">MOLINO QUE MUELES LOS MESES</flowPara><flowPara
+             style="font-size:16px;text-align:start;text-anchor:start"
+             id="flowPara13218-7-7">PRONTO LLEGARÁ EL OTOÑO</flowPara><flowPara
+             style="font-size:16px;text-align:start;text-anchor:start"
+             id="flowPara13222-3-8">Y ESTARÁS TRISTE COMO LA CRUZ</flowPara></flowRoot>        <path
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.51899999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 30.690593,61.113897 59.163456,32.641032"
+           id="path13224-6-4"
+           inkscape:connector-curvature="0" />
       </g>
       <circle
-         transform="rotate(90)"
-         r="24.437077"
-         cy="-142.65143"
-         cx="136.63168"
+         style="fill:none;fill-opacity:1;stroke-width:0.31900001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
          id="path13497"
-         style="fill:none;fill-opacity:1;stroke-width:0.31900001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+         cx="136.63168"
+         cy="-142.65143"
+         r="24.437077"
+         transform="rotate(90)" />
       <g
-         transform="matrix(0.63560706,0,0,0.63560706,58.560952,58.065704)"
-         id="g13600">
+         id="g13600"
+         transform="matrix(0.63560706,0,0,0.63560706,58.560952,58.065704)">
         <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:5.3917222px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13479304px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="matrix(0.32690426,0.5289902,-0.5289902,0.32690426,157.8873,3.4677)"
            id="text13501"
-           transform="matrix(0.32690426,0.5289902,-0.5289902,0.32690426,157.8873,3.4677)"><textPath
-             xlink:href="#path13497"
+           style="font-style:normal;font-weight:normal;font-size:5.3917222px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13479304px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><textPath
+             style="font-size:7.15561104px"
              id="textPath13503"
-             style="font-size:7.15561104px">EL VIENTO ES MÁS PACIENTE</textPath></text>
+             xlink:href="#path13497">EL VIENTO ES MÁS PACIENTE</textPath></text>
         <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="matrix(0.64761173,0,0,0.64761173,-12.701351,44.036861)"
            id="text13508"
-           transform="matrix(0.64761173,0,0,0.64761173,-12.701351,44.036861)"><textPath
-             xlink:href="#path13497-0"
-             id="textPath13592"><tspan
-   style="font-size:7.05555534px;stroke-width:0.26458332px"
-   id="tspan13506">QUE UN ASNO</tspan></textPath></text>
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><textPath
+             id="textPath13592"
+             xlink:href="#path13497-0"><tspan
+   id="tspan13506"
+   style="font-size:7.05555534px;stroke-width:0.26458332px">QUE UN ASNO</tspan></textPath></text>
       </g>
       <circle
-         transform="matrix(-0.82644024,0.56302445,0.56302445,0.82644024,0,0)"
-         r="24.437077"
-         cy="231.5932"
-         cx="-112.81337"
+         style="fill:none;fill-opacity:1;stroke-width:0.31900001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
          id="path13497-0"
-         style="fill:none;fill-opacity:1;stroke-width:0.31900001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+         cx="-112.81337"
+         cy="231.5932"
+         r="24.437077"
+         transform="matrix(-0.82644024,0.56302445,0.56302445,0.82644024,0,0)" />
       <text
-         transform="rotate(-45)"
-         id="text13604"
-         y="197.90475"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="-26.379366"
-         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-size:4.23333311px;stroke-width:0.26458332px"
-           y="197.90475"
+         y="197.90475"
+         id="text13604"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           id="tspan13602"
            x="-26.379366"
-           id="tspan13602">NOCHE</tspan></text>
+           y="197.90475"
+           style="font-size:4.23333311px;stroke-width:0.26458332px">NOCHE</tspan></text>
       <text
-         transform="rotate(45)"
-         id="text13604-3"
-         y="-1.0487839"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="162.57175"
-         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-size:4.23333311px;stroke-width:0.26458332px"
-           y="-1.0487839"
+         y="-1.0487839"
+         id="text13604-3"
+         transform="rotate(45)"><tspan
+           sodipodi:role="line"
+           id="tspan13602-6"
            x="162.57175"
-           id="tspan13602-6">MAÑANA</tspan></text>
+           y="-1.0487839"
+           style="font-size:4.23333311px;stroke-width:0.26458332px">MAÑANA</tspan></text>
       <text
-         transform="rotate(-45)"
-         id="text13604-3-1"
-         y="200.25163"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="18.418253"
-         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-size:4.23333311px;stroke-width:0.26458332px"
-           y="200.25163"
+         y="200.25163"
+         id="text13604-3-1"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           id="tspan13602-6-0"
            x="18.418253"
-           id="tspan13602-6-0">MEDIODÍA</tspan></text>
+           y="200.25163"
+           style="font-size:4.23333311px;stroke-width:0.26458332px">MEDIODÍA</tspan></text>
       <text
-         transform="rotate(45)"
-         id="text13604-6"
-         y="-4.4088821"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="214.80598"
-         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-size:4.23333311px;stroke-width:0.26458332px"
-           y="-4.4088821"
+         y="-4.4088821"
+         id="text13604-6"
+         transform="rotate(45)"><tspan
+           sodipodi:role="line"
+           id="tspan13602-3"
            x="214.80598"
-           id="tspan13602-3">TARDE</tspan></text>
+           y="-4.4088821"
+           style="font-size:4.23333311px;stroke-width:0.26458332px">TARDE</tspan></text>
       <path
-         id="path13660"
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.28469259px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 150.53359,198.52775 c 0,0 32.57493,23.08043 17.28909,64.56365"
-         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.28469259px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         id="path13660"
+         inkscape:connector-curvature="0" />
       <text
-         id="text13664"
-         y="253.80093"
-         x="192.66777"
+         xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.26458332px"
-           y="263.1647"
+         x="192.66777"
+         y="253.80093"
+         id="text13664"><tspan
+           sodipodi:role="line"
+           id="tspan13662"
            x="192.66777"
-           id="tspan13662" /></text>
+           y="263.1647"
+           style="stroke-width:0.26458332px" /></text>
       <g
-         transform="matrix(0.7905511,0,0,0.7905511,32.000353,46.246171)"
-         id="g13759">
+         id="g13759"
+         transform="matrix(0.7905511,0,0,0.7905511,32.000353,46.246171)">
         <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:12.23069859px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30576745px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           id="text13668"
-           x="-23.483107"
+           transform="matrix(1.1414236,0,0,1.0972287,-19.512065,-26.392355)"
            y="-39.728729"
-           transform="matrix(1.1414236,0,0,1.0972287,-19.512065,-26.392355)"><textPath
-             xlink:href="#path13660"
+           x="-23.483107"
+           id="text13668"
+           style="font-style:normal;font-weight:normal;font-size:12.23069859px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30576745px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><textPath
+             style="stroke-width:0.30576745px"
              id="textPath13670"
-             style="stroke-width:0.30576745px"><tspan
-   style="font-size:4.89227915px;stroke-width:0.30576745px"
-   id="tspan13666">NUNCA OLVIDEN SU CANCIÓN</tspan></textPath></text>
+             xlink:href="#path13660"><tspan
+   id="tspan13666"
+   style="font-size:4.89227915px;stroke-width:0.30576745px">NUNCA OLVIDEN SU CANCIÓN</tspan></textPath></text>
         <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           id="text13714"
-           x="-4.8874149"
+           transform="matrix(0.96682906,0.14050507,-0.13430413,0.92415982,30.436452,-8.519361)"
            y="-0.61092687"
-           transform="matrix(0.96682906,0.14050507,-0.13430413,0.92415982,30.436452,-8.519361)"><textPath
-             xlink:href="#path13749"
+           x="-4.8874149"
+           id="text13714"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><textPath
+             style="font-size:5.36375046px"
              id="textPath13751"
-             style="font-size:5.36375046px">ESTE ES EL MOLINO VERDADERO</textPath></text>
+             xlink:href="#path13749">ESTE ES EL MOLINO VERDADERO</textPath></text>
       </g>
       <path
-         id="path13749"
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.42727953px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="M 122.11133,274.95116 C 91.360704,223.03567 134.9408,196.87298 134.9408,196.87298"
-         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.42727953px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         id="path13749"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
     </g>
     <text
-       id="text13763"
-       y="265.23178"
-       x="144.25284"
+       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         dx="1"
-         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-         style="font-size:6.3499999px;line-height:56.99999928%;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-         y="265.23178"
+       x="144.25284"
+       y="265.23178"
+       id="text13763"><tspan
+         sodipodi:role="line"
+         id="tspan13761"
          x="144.25284"
-         id="tspan13761">HACE LA LLUVIA Y HACE EL BUEN TIEMPO</tspan><tspan
-         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-         id="tspan13765"
+         y="265.23178"
          style="font-size:6.3499999px;line-height:56.99999928%;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+         dx="1">HACE LA LLUVIA Y HACE EL BUEN TIEMPO</tspan><tspan
+         sodipodi:role="line"
+         x="144.25284"
          y="278.46094"
-         x="144.25284">HACE LAS CUATRO ESTACIONES</tspan></text>
+         style="font-size:6.3499999px;line-height:56.99999928%;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         id="tspan13765"
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">HACE LAS CUATRO ESTACIONES</tspan></text>
   </g>
 </svg>
