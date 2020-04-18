@@ -3,7 +3,7 @@
     "version": "0.0.1",
     "author": "Ian Hunter <beanland2@gmail.com>",
     "dependencies": {
-        "uglify-js": "2.3.X",
+        "uglify-js": "3.9.1",
         "html-minifier": "git://github.com/kangax/html-minifier.git#711dc1d0fd470dca091589347107d502eb299d12",
         "jsdom": "0.6.X",
         "cssmin": "0.4.1"
